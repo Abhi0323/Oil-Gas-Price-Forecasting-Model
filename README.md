@@ -34,4 +34,5 @@ The Oil & Gas Price Forecasting Model is a pioneering initiative designed to acc
 - Investigate the potential of other cutting-edge methods like deep learning and reinforcement learning for predicting oil and gas prices.
 
 **Conclusion**
+
 This project underscores the growing importance of interdisciplinary research that combines domain-specific knowledge in the energy sector with advanced data science techniques. The insights derived from this model are poised to significantly contribute to more accurate and informed decision-making in the oil and gas industry.
