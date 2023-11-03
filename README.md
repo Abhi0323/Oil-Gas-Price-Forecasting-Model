@@ -1,7 +1,9 @@
 **Oil-Gas-Price-Forecasting-Model**
+
 The Oil &amp; Gas Price Forecasting Model employs advanced machine learning and time series analysis to accurately predict oil and gas price fluctuations based on historical global reserves data and external market variables. 
 
 **Project Overview**
+
 The Oil & Gas Price Forecasting Model is a pioneering initiative designed to accurately predict the fluctuations in oil and gas prices leveraging advanced machine learning and time series analysis. Utilizing a comprehensive dataset spanning 50 years of global oil and gas reserves and price data, along with critical external variables like climate and economic indicators, this model aims to provide actionable insights for stakeholders in the energy sector. 
 
 **Core Objectives**
